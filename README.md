@@ -8,7 +8,7 @@
 
 </p> 
 ## 🚀 About Me
-- 🏢 I'm an electronics and communications engineering student at Tanta University.
+I'm an electronics and communications engineering student at Tanta University.
 
 ### Connect with Me :
 
