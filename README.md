@@ -7,8 +7,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7573F&center=true&vCenter=true&random=false&width=435&lines=Electronics+and+Communications+Engineering+Student" alt="Typing SVG" />
 
 </p> 
+
+
+# Project Title
+
+A brief description of what this project does and who it's for
+
+
 ## 🚀 About Me
-I'm an electronics and communications engineering student at Tanta University.
+I'm a full stack developer...
+
+
 
 ### Connect with Me :
 
