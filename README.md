@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7573F&center=true&vCenter=true&random=false&width=435&lines=Electronics+and+Communications+Engineering+Student" alt="Typing SVG" />
 
 </p> 
-
+## 🚀 About Me
 - 🏢 I'm an electronics and communications engineering student at Tanta University.
 
 ### Connect with Me :
