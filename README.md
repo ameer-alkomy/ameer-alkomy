@@ -24,12 +24,13 @@ Python, Microsoft Office(Word, PowerPoint),...
 
 
 
-
+<!--
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ameer-alkomy&yshow_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
 <a href="https://komarev.com/ghpvc/?username=ameer-alkomy&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=ameer-alkomy&style=for-the-badge">
 </a>
+-->
 
 <!--
 **ameer-alkomy/ameer-alkomy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
